@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/Temporal_trends_files
+Temporal_trends.html
+*.rmarkdown
+*.pdf
+*.PDF
+!Figures/*.pdf
+!Figures/*.PDF
+Data/*
